@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025-09-09 01:05:25.000.900,=C:\Users\Jovana\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-09-09 02:01:34.000.939,C:\Users\Jovana\Desktop\LazarRent.fmx=C:\Users\Jovana\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2025-09-09 02:01:34.000.926,C:\Users\Jovana\Desktop\LazarRent.pas=C:\Users\Jovana\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-09-09 02:02:32.000.108,C:\Users\Jovana\Desktop\ProjectRentaCar.dproj=C:\Users\Jovana\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025-09-09 03:36:16.000.122,=C:\Users\Jovana\Desktop\RentaCar\Unit2.pas</Transaction>
+    <Transaction>2025-09-09 03:37:37.000.711,C:\Users\Jovana\Desktop\RentaCar\uMain.pas=C:\Users\Jovana\Desktop\RentaCar\Unit2.pas</Transaction>
+    <Transaction>2025-09-09 03:37:37.000.711,C:\Users\Jovana\Desktop\RentaCar\uMain.fmx=C:\Users\Jovana\Desktop\RentaCar\Unit2.fmx</Transaction>
+    <Transaction>2025-09-09 03:46:12.000.356,=C:\Users\Jovana\Desktop\RentaCar\Unit1.pas</Transaction>
+    <Transaction>2025-09-09 03:46:58.000.872,C:\Users\Jovana\Desktop\RentaCar\uDM.dfm=C:\Users\Jovana\Desktop\RentaCar\Unit1.dfm</Transaction>
+    <Transaction>2025-09-09 03:46:58.000.872,C:\Users\Jovana\Desktop\RentaCar\uDM.pas=C:\Users\Jovana\Desktop\RentaCar\Unit1.pas</Transaction>
+    <Transaction>2025-09-09 04:16:37.000.256,=C:\Users\Jovana\Desktop\RentaCar\myshopdb.db3</Transaction>
+    <Transaction>2025-09-18 00:17:08.000.424,=C:\Users\Jovana\Desktop\RentaCar\Unit2.pas</Transaction>
+    <Transaction>2025-09-21 21:02:24.000.898,=C:\Users\Jovana\Desktop\RentaCar\Unit3.pas</Transaction>
+    <Transaction>2025-09-22 01:38:15.000.500,C:\Users\Jovana\Desktop\RentaCar\Unit3.pas=</Transaction>
+    <Transaction>2025-09-22 01:39:13.000.364,=C:\Users\Jovana\Desktop\RentaCar\Unit4.pas</Transaction>
+    <Transaction>2025-09-22 01:40:49.000.922,=C:\Users\Jovana\Desktop\RentaCar\Unit4.pas</Transaction>
+    <Transaction>2025-09-22 03:44:34.000.299,=C:\Users\Jovana\Desktop\RentaCar\Unit3.pas</Transaction>
+  </Transactions>
+</BorlandProject>
